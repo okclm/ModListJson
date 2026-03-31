@@ -1,0 +1,22 @@
+https://discord.com/channels/322211727192358914/459443921114628106/898858267281854524
+
+HOW TO ADD MODS TO THE MOD LIST
+
+The mod list works by reading through different mod source files and parsing them, this also serves as the base for the mod API that Lum uses.
+
+The modder has to create a mod definition json and put it somewhere that is readable by other websites (usually Github).
+
+Once you have this, message me with the link and I'll add the mod source to the mod list, and from that point, any update to the definition file is displayed automatically, like adding new mods, or updating the current ones.
+
+Attached to this msg is the template for the definition file, note that the "mods" key is an array, so if you have multiple mods you need to duplicate the object as much as you need.
+
+For examples of definitions, you can check mine: 
+https://gist.github.com/Xpazeman/d4643bd7c1beb359b331ca232cc3c742
+Jeremy's:
+https://raw.githubusercontent.com/ds5678/mod_list/main/ds5678.json
+or DZ's:
+https://github.com/DigitalzombieTLD/ModListJson/blob/master/digitalzombie_tld_mods.json
+
+I recommend using gists as you can edit them directly on the browser, but whatever suits you better is ok as long as it's accessible.
+
+It's very important that you json is valid or it won't show on the list. To make sure it validates, you can use https://jsonlint.com/
