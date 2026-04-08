@@ -72,7 +72,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/okclm/ModListJson/list_icon_preppercache.png"
+				"https://raw.githubusercontent.com/okclm/ModListJson/refs/heads/main/list_icon_preppercache.png"
 			],
 			"dependencies": [
 				"ModSettings"
