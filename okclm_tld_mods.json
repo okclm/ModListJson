@@ -26,7 +26,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/okclm/ModListJson/raw/master/list_icon_motiontracker.png"
+				"https://raw.githubusercontent.com/okclm/ModListJson/refs/heads/main/list_icon_motiontracker.png"
 			],
 			"dependencies": [
 				"ModSettings"
