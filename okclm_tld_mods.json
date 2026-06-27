@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.4.0",
 			"name": "MotionTracker",
 			"displayName": "",
 			"author": "okclm",
 			"previousAuthors": "Digitalzombie",
 			"released": "2023-04-16",
-			"updated": "2026-03-27",
-			"downloadURL": "https://github.com/okclm/MotionTracker/releases/download/v1.3.0/MotionTracker.dll",
+			"updated": "2026-06-27",
+			"downloadURL": "https://github.com/okclm/MotionTracker/releases/download/v1.4.0/MotionTracker.dll",
 			"modURL": "https://github.com/okclm/MotionTracker",
 			"description": "Adds a minimap that can show animals, spraypaint markings, and select gear.",
 			"tags": "map, motion, tracker, spraypaint, tracking, arrows",
@@ -34,18 +34,18 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "TLD 2.5 / Unity 6 fix, Cougars added, Issue with Crows sometimes remaining on the radar fixed.",
+				"patchnotes": "TLD 2.55 / Added ability to control the radar mini map placement on the screen.",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.52",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/okclm/MotionTracker/releases/download/v1.3.0/MotionTracker.zip"
+					"https://github.com/okclm/MotionTracker/releases/download/v1.4.0/MotionTracker.zip"
 				]
 			},
 			"aliases": []
