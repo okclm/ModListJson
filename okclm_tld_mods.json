@@ -6,13 +6,13 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.4.1",
 			"name": "MotionTracker",
 			"displayName": "",
 			"author": "okclm",
 			"previousAuthors": "Digitalzombie",
 			"released": "2023-04-16",
-			"updated": "2026-06-27",
+			"updated": "2026-09-12",
 			"downloadURL": "https://github.com/okclm/MotionTracker/releases/download/v1.4.0/MotionTracker.dll",
 			"modURL": "https://github.com/okclm/MotionTracker",
 			"description": "Adds a minimap that can show animals, spraypaint markings, and select gear.",
